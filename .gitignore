@@ -398,5 +398,5 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Ignore Extra
-silverspringing.baldiplus.endlessitems/
-bin/
+silverspringing.baldiplus.endlessitems
+bin
